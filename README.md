@@ -1,16 +1,17 @@
-## Hi there 👋
+# Merhaba! 👋 Ben Semih Arslan
 
-<!--
-**arslansemih35/arslansemih35** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Yazılım geliştirici | Flutter & C# | Mobil ve oyun uygulamaları
 
-Here are some ideas to get you started:
+## 🚀 Öne Çıkan Projeler
+- [Sudoku Oyunu](link) - Flutter ile animasyonlu ve işlevsel
+- [Üniversite Yönetim Sistemi](link) - C# ve MSSQL tabanlı
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Beceriler
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+## 📈 GitHub İstatistikleri
+![Semih's GitHub stats](https://github-readme-stats.vercel.app/api?username=KULLANICI_ADIN&show_icons=true&theme=radical)
+
