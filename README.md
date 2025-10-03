@@ -45,5 +45,5 @@
 
 ## 📫 Bana Ulaş
 - E-posta: [arslansemih328@gmail.com](mailto:arslansemih328@gmail.com)
-- LinkedIn: [linkedin.com/in/semiharslan](https://linkedin.com/in/semiharslan)
-- Portfolio: [semiharslan.com](https://semiharslan.com)
+- LinkedIn: [linkedin.com/in/semiharslan3552](https://linkedin.com/in/semiharslan3552)
+- Portfolio: [arslansemih35.github.io](https://arslansemih35.github.io)
