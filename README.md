@@ -175,8 +175,6 @@ class CurrentLearning {
 
 Projeler, iş birlikleri veya kahve sohbeti için her zaman açığım! ☕
 
-**📍 Konum:** Küçükçiğli, Çiğli/İzmir  
-**📞 Telefon:** +90 552 360 86 34
 
 <div align="center">
 
