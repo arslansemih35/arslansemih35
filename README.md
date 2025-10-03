@@ -14,23 +14,60 @@
 
 ## 🎯 Hakkımda
 
-Merhaba! Ben Semih, kullanıcı deneyimini ön planda tutan, modern ve işlevsel yazılımlar geliştiren bir yazılım geliştiriciyim. Flutter ile mobil uygulama geliştirme ve C# ile backend sistemler konusunda uzmanlaşmış durumdayım.
+Merhaba! Ben Semih, kullanıcı deneyimini ön planda tutan, modern ve işlevsel yazılımlar geliştiren bir yazılım geliştiriciyim. Salihli Meslek Yüksekokulu Bilgisayar Programcılığı bölümü mezunuyum (2025). Flutter ile mobil uygulama geliştirme ve C# ile backend sistemler konusunda uzmanlaşmış durumdayım.
 
 **Odak Alanlarım:**
 - 📱 Cross-platform mobil uygulama geliştirme
 - 🎮 İnteraktif mobil oyun tasarımı
 - 🎨 Kullanıcı odaklı UI/UX tasarımları
-- 🔧 Ölçeklenebilir backend sistemleri
+- 🔧 ERP sistemleri ve yönetim panelleri
+- 🤖 AI araçları ile yazılım geliştirme
+
+## 💼 Projelerim
+
+### 🎮 Slidestone - Mobil Puzzle Oyunu
+Flutter ile geliştirdiğim etkileşimli puzzle oyunu. Akıcı animasyonlar ve sezgisel oyun mekaniği ile kullanıcı deneyimini ön planda tutarak tasarlandı.
+
+**Teknolojiler:** Flutter, Dart  
+**Özellikler:** Cross-platform destek, smooth animasyonlar, AI destekli optimizasyon
 
 ---
 
-## 💼 Projelerim
+### 🏥 Panikat - Sağlık Uygulaması (BGO Team)
+Panik atak hastaları için geliştirilmekte olan mobil uygulama. RESTful API entegrasyonu ile backend sistemlerle iletişim sağlayan kapsamlı bir sağlık çözümü.
+
+**Teknolojiler:** Flutter, REST API  
+**Özellikler:** Backend entegrasyonu, kullanıcı dostu arayüz, gerçek zamanlı veri senkronizasyonu
+
+---
+
+### 🏫 Üniversite Yönetim Sistemi
+C# ve MSSQL ile geliştirilmiş kapsamlı yönetim paneli. Yönetici, öğretim üyesi ve öğrenci modülleri ile akademik süreçleri dijitalleştiren bir sistem.
+
+**Teknolojiler:** C#, .NET, MSSQL  
+**Özellikler:** Rol tabanlı erişim, sınav yönetimi, ders ve öğretim üyesi takibi
+
+---
+
+### 🏭 ERP Sistemi (Havatek Makina Staj Projesi)
+Şirket içi üretim ve stok takibi için Flutter ile geliştirdiğim ERP sistemi. Ürün, sipariş ve stok yönetimi modülleri ile tam entegre bir çözüm.
+
+**Teknolojiler:** Flutter, Dart  
+**Özellikler:** Stok takibi, sipariş yönetimi, kullanıcı rolleri, mobil erişim
+
+---
+
+### ⚖️ Avukat Web Sitesi
+İki farklı avukat için tasarlanan ortak web platformu. Özel logo tasarımı, animasyonlar ve profesyonel görünüm ile dikkat çekici bir web sitesi.
+
+**Teknolojiler:** HTML, CSS, JavaScript, PHP  
+**Özellikler:** Responsive tasarım, animasyonlar, özel branding
+
+---
 
 <div align="center">
 
 [![Repos](https://img.shields.io/badge/📂_Tüm_Projelerimi_Keşfet-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arslansemih35?tab=repositories)
-
-Mobil uygulamalardan oyun projelerine, web uygulamalarından backend sistemlere kadar çeşitli projelerimi inceleyebilirsiniz.
 
 </div>
 
@@ -43,6 +80,9 @@ Mobil uygulamalardan oyun projelerine, web uygulamalarından backend sistemlere 
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -66,14 +106,20 @@ Mobil uygulamalardan oyun projelerine, web uygulamalarından backend sistemlere 
 
 <div align="center">
   
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=arslansemih35&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arslansemih35&layout=compact&langs_count=8&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=arslansemih35&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arslansemih35&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 
 </div>
 
 <div align="center">
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=arslansemih35&theme=tokyonight)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=arslansemih35&theme=tokyonight&hide_border=true&background=0D1117)](https://git.io/streak-stats)
+
+</div>
+
+<div align="center">
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arslansemih35&theme=tokyonight)
 
 </div>
 
@@ -87,8 +133,9 @@ class CurrentLearning {
     '🎨 Advanced Flutter Animations & Custom Painters',
     '🎮 Game Development with Flame Engine',
     '🤖 AI/ML Integration in Mobile Apps',
-    '🌐 GraphQL & Modern Backend Architectures',
+    '🌐 RESTful API & Backend Architectures',
     '🔐 Mobile App Security Best Practices',
+    '🧠 AI-Powered Development (Cursor & Claude)',
   ];
   
   void explore() {
@@ -96,6 +143,21 @@ class CurrentLearning {
   }
 }
 ```
+
+---
+
+## 💼 İş Deneyimi
+
+**🏭 Havatek Makina - Stajyer (Proje Kontrol / Yazılım Bölümü)**  
+*4 Ay | 2025*
+- Proje takip sistemlerine yazılımsal destek sağladım
+- Veritabanı ve kullanıcı arayüzü geliştirme süreçlerine katkı sundum
+- Flutter ile şirket içi ERP sistemi tasarladım ve geliştirdim
+
+**🏭 PEMA Plastik Fabrikası - Üretim Elemanı**  
+*24.06.2024 - 21.09.2024*
+- Plastik enjeksiyon üretim hatlarında görev aldım
+- Üretim süreçlerine operasyonel destek verdim
 
 ---
 
@@ -112,6 +174,9 @@ class CurrentLearning {
 ## 📫 Benimle İletişime Geçin
 
 Projeler, iş birlikleri veya kahve sohbeti için her zaman açığım! ☕
+
+**📍 Konum:** Küçükçiğli, Çiğli/İzmir  
+**📞 Telefon:** +90 552 360 86 34
 
 <div align="center">
 
