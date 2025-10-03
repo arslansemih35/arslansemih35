@@ -9,9 +9,9 @@
 
 | Proje | Açıklama | Görsel |
 |-------|----------|--------|
-| [Sudoku Oyunu](link) | Flutter ile animasyonlu ve işlevsel | ![Sudoku GIF](link.gif) |
+| [SLideStone Oyunu](link) | Flutter ile animasyonlu ve işlevsel | ![Stone GIF](link.gif) |
 | [Üniversite Yönetim Sistemi](link) | C# ve MSSQL tabanlı yönetim paneli | ![Yönetim GIF](link.gif) |
-| [Flutter E-ticaret](link) | OpenCart entegrasyonlu mobil uygulama | ![E-ticaret GIF](link.gif) |
+| [Flutter E-ticaret](link) | E-Ticaret Sitesi Arayüzü | ![E-ticaret GIF](link.gif) |
 
 > Not: GIF ve görseller projelerinin küçük özetlerini göstermek için kullanılabilir.
 
