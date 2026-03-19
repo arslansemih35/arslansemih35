@@ -33,6 +33,14 @@ Flutter ile geliştirdiğim etkileşimli puzzle oyunu. Akıcı animasyonlar ve s
 
 ---
 
+### 🏥 Puantaj Defteri Cari Takip (Serdar Kısacık)
+Muhasebeler için Puantaj sistemi cari takip ve şirket finansal yönetimi
+
+**Teknolojiler:** Flutter, REST API  
+**Özellikler:** Backend entegrasyonu, kullanıcı dostu arayüz, gerçek zamanlı veri senkronizasyonu
+
+---
+
 ### 🏥 Panikat - Sağlık Uygulaması (BGO Team)
 Panik atak hastaları için geliştirilmekte olan mobil uygulama. RESTful API entegrasyonu ile backend sistemlerle iletişim sağlayan kapsamlı bir sağlık çözümü.
 
@@ -147,6 +155,17 @@ class CurrentLearning {
 ---
 
 ## 💼 İş Deneyimi
+
+**🏭 LUNA Elektrik - SMD Operatörü (SMD Bölümü)**  
+*Halen | 2025*
+- Üretim süreçlerine operasyonel destek verdim
+- Devre kartı robot montajı üretim hatlarında görev aldım
+
+**🏭 BGO TEAM - Gönüllü Android Geliştirici (Yazılım Bölümü)**  
+*Halen | 2025*
+- Proje takip sistemlerine yazılımsal destek sağladım
+- Veritabanı ve kullanıcı arayüzü geliştirme süreçlerine katkı sundum
+- Flutter ile Panikat Sağlık terapi uygulaması geliştirdim
 
 **🏭 Havatek Makina - Stajyer (Proje Kontrol / Yazılım Bölümü)**  
 *4 Ay | 2025*
